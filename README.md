@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @erhspartans
+- 👀 I’m interested in Finance ...
+- 🌱 I’m currently a student in college ...
+- 💞️ I’m looking to expand my knowledge in coding further  ...
+
+<!---
+erhspartans/erhspartans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
